@@ -1,0 +1,3 @@
+# ninja log v5
+0	635	1730095576897267144	CMakeFiles/native-lib.dir/NativeCrashHandler.cpp.o	8ff2fbcd36a66acb
+635	703	1730095576962375154	/Users/rohsunghyun/AndroidStudioProjects/webview_crash/app/build/intermediates/cxx/Debug/2w3mk5n6/obj/arm64-v8a/libnative-lib.so	5bd7971df527ed4a

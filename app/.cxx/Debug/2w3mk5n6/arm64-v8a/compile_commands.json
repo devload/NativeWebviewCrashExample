@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/rohsunghyun/AndroidStudioProjects/webview_crash/app/.cxx/Debug/2w3mk5n6/arm64-v8a",
+  "command": "/Users/rohsunghyun/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/rohsunghyun/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/rohsunghyun/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/rohsunghyun/AndroidStudioProjects/webview_crash/app/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/NativeCrashHandler.cpp.o -c /Users/rohsunghyun/AndroidStudioProjects/webview_crash/app/src/main/cpp/NativeCrashHandler.cpp",
+  "file": "/Users/rohsunghyun/AndroidStudioProjects/webview_crash/app/src/main/cpp/NativeCrashHandler.cpp"
+}
+]

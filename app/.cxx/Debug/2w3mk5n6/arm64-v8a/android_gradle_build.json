@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/rohsunghyun/AndroidStudioProjects/webview_crash/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/rohsunghyun/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/rohsunghyun/AndroidStudioProjects/webview_crash/app/.cxx/Debug/2w3mk5n6/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/rohsunghyun/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/rohsunghyun/AndroidStudioProjects/webview_crash/app/.cxx/Debug/2w3mk5n6/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "native-lib",
+      "output": "/Users/rohsunghyun/AndroidStudioProjects/webview_crash/app/build/intermediates/cxx/Debug/2w3mk5n6/obj/arm64-v8a/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/rohsunghyun/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/rohsunghyun/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
